@@ -1,0 +1,1 @@
+A very silly Javascript game I did (unfinished) showing loops, interacting with the DOM, Arrays, sound, etc.
