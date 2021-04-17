@@ -1,0 +1,77 @@
+/*CSS Styles */
+	body {
+		background-color: black;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		overflow: hidden;
+	}
+	
+
+
+	
+	
+    div#content {
+		color: white;
+        width: 780px;
+        margin: 0;
+        padding: 0;
+		position: relative;
+		top: 0px;
+        text-align: left;
+    }	
+	
+	div#frameclicks {
+		font-size:12pt;
+		font-family:Courier;
+		font-weight:bold;
+		color:#ffffff;
+		z-index: 100;
+	}
+	
+	div#score {
+		font-size:12pt;
+		font-family:Courier;
+		font-weight:bold;
+		color:#ffffff;
+		z-index:100;
+	}
+	
+	div#lives {
+		font-size:12pt;
+		font-family:Courier;
+		font-weight:bold;
+		color:#ffffff;
+		z-index:100;
+	}
+	
+	div#energy {
+		font-size:12pt;
+		font-family:Courier;
+		font-weight:bold;
+		color:#ffffff;
+		z-index:100;
+	}
+	
+	
+	
+	div#transparency {
+		height: 100%;
+		width: 100%;
+		position: relative; 
+		left: 0px; 
+		top: 0px; 
+		z-index: 10000; 
+		background-image: url("images/background1.png");
+		overflow: hidden;
+	}
+	
+	div #startbutton{
+		position: relative; 
+		left: 10px; 
+		top: 0px; 
+		z-index: 20000;
+	}
